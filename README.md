@@ -82,4 +82,4 @@ Criador do repositório: cllmenate (GitHub)
 
 Licença
 -------
-Nenhuma licença explícita fornecida neste repositório.
+MIT License.
